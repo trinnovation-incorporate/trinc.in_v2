@@ -1,0 +1,26 @@
+.blog_slider .blog_item {
+    margin: 20px 0 40px;
+    margin: 20px 18px 40px;
+    max-height: 500px
+}
+
+.blog_slider .image1 {
+    max-height: 500px
+}
+
+.blog_slider .blog_item img {
+    object-fit: cover;
+    position: relative;
+    height: inherit;
+    max-height: 460px
+}
+
+@media screen and (min-width:991px) and (max-width:1200px) {
+    .date .calendar {
+        margin-top: 25px
+    }
+
+    .date {
+        flex-flow: row wrap
+    }
+}
