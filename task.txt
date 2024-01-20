@@ -1,17 +1,18 @@
 remove theses Section?
 
-1. Software development company case studies
-2. captcha
-3. FAQ Section
-4. Most recent blog posts
-5. Trusted by leading brands
-6. Remove Case Studies from header
-7. Remove Blogs from header
+done 1. Software development company case studies
+done 2. captcha
+done 3. Frequently Asked Questions Section
+done 4. Most recent blog posts
+done 5. Trusted by leading brands
+done 6. Remove Case Studies from header
+done 7. Remove Blogs from header
 
 Add these pages
-1. /privacy-policy
-2. /career
-3. /contact/ - make this functioaning to sent me emails
+done 1. /privacy-policy
+done 2. /career
+done 3. About Us
+4. /contact/ - make this functioaning to sent me emails
 
 Misllaniuos Tasks
 1. Change overall Theme color from Dark Blue to BLue Color used in trinc logo
