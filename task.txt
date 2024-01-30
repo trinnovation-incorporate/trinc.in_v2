@@ -9,7 +9,7 @@ done 6. Remove Case Studies from header
 done 7. Remove Blogs from header
 
 Add these pages
-done 1. /privacy-policy
+done 1. /privacy-policy/
 done 2. /career
 done 3. About Us
 4. /contact/ - make this functioaning to sent me emails

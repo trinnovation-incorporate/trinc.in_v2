@@ -1,0 +1,36 @@
+{
+  "hosting": {
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "/contact/**",
+        "destination": "/contact.html"
+      },
+      {
+        "source": "/about-us/**",
+        "destination": "/about-us.html"
+      },
+      {
+        "source": "/career/**",
+        "destination": "/career.html"
+      },
+      {
+        "source": "/job-apply/**",
+        "destination": "/job-apply.html"
+      },
+      {
+        "source": "/privacy-policy//**",
+        "destination": "/privacy-policy/.html"
+      },
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
