@@ -24,8 +24,8 @@
         "destination": "/job-apply.html"
       },
       {
-        "source": "/privacy-policy//**",
-        "destination": "/privacy-policy/.html"
+        "source": "/privacy-policy/**",
+        "destination": "/privacy-policy.html"
       },
       {
         "source": "**",
